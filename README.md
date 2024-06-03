@@ -22,15 +22,21 @@ For more details, please check the latest version of the paper
 
 
 ###  Prerequisites
+``` bash
 - Python 3.6
 - sklearn
 - spacy
 - torch
 - transformers
+```
 
 ### Spanish SR Train/Test Dataset
 
-- Training Dataset: Spanish abstracts from 2009 to 2023 were collected from the !LILACS(https://lilacs.bvsalud.org/en/) database. To obrain abstract-queries pair for training the titles of biomedical abstracts indexed and collected from the LILACS database were converted into questions/queries.
+- Training Dataset: Spanish abstracts from 2009 to 2023 were collected from the [LILACS](https://lilacs.bvsalud.org/en/) database. To obtain abstract-queries pair for training, the titles of biomedical abstracts indexed and collected from the [LILACS](https://lilacs.bvsalud.org/en/) database were converted into questions/queries.
+
+
+
+
 
 
 
