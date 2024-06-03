@@ -4,8 +4,8 @@
 - [Abstract](#features)
 - [Methodology](#installation)
 - [Prerequisites](#usage)
+- [Spanish SR Train/Test Dataset](#visualizing-attacks)
 - [Models](#generating-adversarial-images)
-- [Spanish SR Tests Dataset](#visualizing-attacks)
 - [Limitation](#limitation)
 
 
@@ -16,8 +16,18 @@ Systematic Reviews (SRs) are foundational in healthcare for synthesising evidenc
 For more details, please check the latest version of the paper
 
 
-## Methodology
+### Methodology
 
 ![Image Alt text](dual_encoder_naacl.PNG)
+
+
+###  Prerequisites
+- Python 3.6
+- PyTorch 1.3.1
+- transformers
+
+
+
+
 
 
