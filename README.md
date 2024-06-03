@@ -18,5 +18,6 @@ For more details, please check the latest version of the paper
 
 ## Methodology
 
+![Image Alt text](dual_encoder_naacl.PNG)
 
 
