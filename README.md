@@ -35,7 +35,7 @@ For more details, please check the latest version of the paper
 - Training Dataset: Spanish abstracts from 2009 to 2023 were collected from the [LILACS](https://lilacs.bvsalud.org/en/) database. To obtain abstract-queries pair for training, the titles of biomedical abstracts indexed and collected from the [LILACS](https://lilacs.bvsalud.org/en/) database were converted into questions/queries.
 
 
-
+- Testing Dataset: To evaluate the performance of the investigated model, we used three biomedical human annotated Spanish SR case studies: **SB**: [Oral health and obesity in Mexico (salud bucal y obesidad en México)](https://academic.oup.com/nutritionreviews/article/80/6/1694/6402007?login=false), **SM**: [Mental health and obesity in Mexico (salud mental y obesidad en México)](https://academic.oup.com/nutritionreviews/article/81/6/658/6717764?login=false), and **PO**: [Obesity prevention in Mexican children (prevención de obesidad en ninos mexicanos)](https://link.springer.com/article/10.1007/s11121-021-01316-6).
 
 
 
