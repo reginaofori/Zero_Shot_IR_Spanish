@@ -45,6 +45,11 @@ For more details, please check the latest version of the paper
 
 
 
+### Models
+
+- BM25 
+- Dual encoder PLM (mBERT, BETO, XLM-R Galén and bsc-bio-ehr-es)
+- Cross attention re-ranker model 
 
 
 
